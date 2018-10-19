@@ -1,0 +1,15 @@
+﻿  main.c
+c:\users\ylan\source\repos\calav1.c\calav1.c\main.c(57): warning C4047: '==' : les niveaux d'indirection de 'int' et de 'void *' sont différents
+c:\users\ylan\source\repos\calav1.c\calav1.c\main.c(62): warning C4473: 'printf' : nombre insuffisant d'arguments passés pour la chaîne de format
+  c:\users\ylan\source\repos\calav1.c\calav1.c\main.c(62): note: les espaces réservés et leurs paramètres attendent des arguments 3 variadiques, mais des arguments 0 ont été fournis
+  c:\users\ylan\source\repos\calav1.c\calav1.c\main.c(62): note: l'argument variadique manquant 1 est demandé par la chaîne de format '%d'
+c:\users\ylan\source\repos\calav1.c\calav1.c\main.c(70): warning C4047: 'initialisation' : les niveaux d'indirection de 'order *' et de 'order **' sont différents
+c:\users\ylan\source\repos\calav1.c\calav1.c\main.c(85): warning C4047: 'fonction' : les niveaux d'indirection de 'int' et de 'void *' sont différents
+c:\users\ylan\source\repos\calav1.c\calav1.c\main.c(85): warning C4024: 'newOrder' : types différents pour le paramètre formel et réel 7
+c:\users\ylan\source\repos\calav1.c\calav1.c\main.c(85): warning C4024: 'newOrder' : types différents pour le paramètre formel et réel 8
+c:\users\ylan\source\repos\calav1.c\calav1.c\main.c(85): warning C4047: 'fonction' : les niveaux d'indirection de 'long' et de 'void *' sont différents
+c:\users\ylan\source\repos\calav1.c\calav1.c\main.c(85): warning C4024: 'newOrder' : types différents pour le paramètre formel et réel 9
+c:\users\ylan\source\repos\calav1.c\calav1.c\main.c(88): warning C4047: 'fonction' : les niveaux d'indirection de 'order **' et de 'order *' sont différents
+c:\users\ylan\source\repos\calav1.c\calav1.c\main.c(88): warning C4024: 'goToID' : types différents pour le paramètre formel et réel 1
+c:\users\ylan\source\repos\calav1.c\calav1.c\main.c(49): warning C4715: 'newOrder' : les chemins de contrôle ne retournent pas tous une valeur
+  calaV1.c.vcxproj -> C:\Users\ylan\source\repos\calaV1.c\Debug\calaV1.c.exe
